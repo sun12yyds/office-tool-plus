@@ -2,7 +2,7 @@
 
 #
 
-## LKY Office Tools
+## sun12yyds Office Tools plus
  > 一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒。
 
 目前包含的功能：
@@ -14,8 +14,8 @@ Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Ly
 - 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。
 
 ## 使用方法
-- 下载形如：LKY_OfficeTools_v*.zip 的压缩包，最新版地址：https://github.com/sun12yyds/office tool plus
-- 解压下载好的 zip 压缩包，运行解压后目录下的 LKY_OfficeTools.exe 文件即可完成部署。
+
+解压压缩包运行exe即可
 
 ## 运行环境
 - 为保证安装、激活可以最大限度成功，请您尽可能在新装系统后（或从未安装过 Microsoft Office 软件的系统中）运行本工具。
